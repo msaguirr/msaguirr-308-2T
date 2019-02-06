@@ -1,2 +1,2 @@
 language: java
-scipt: ant build
+scipt: ant test
