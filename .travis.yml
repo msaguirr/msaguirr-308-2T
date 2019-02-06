@@ -1,2 +1,4 @@
 language: java
-scipt: ant test
+jdk:
+  - oraclejdk8
+scipt: ant build
